@@ -1,0 +1,16 @@
+﻿global using Dapper;
+global using GlobalizationDemo.Data;
+global using GlobalizationDemo.Localizations;
+global using GlobalizationDemo.Models;
+global using GlobalizationDemo.Swagger.Filters;
+global using Microsoft.AspNetCore.Localization;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Data.Sqlite;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Options;
+global using Microsoft.Net.Http.Headers;
+global using Microsoft.OpenApi.Any;
+global using Microsoft.OpenApi.Models;
+global using Swashbuckle.AspNetCore.SwaggerGen;
+global using System.Data;
+global using System.Globalization;
